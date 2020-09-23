@@ -16,5 +16,5 @@ uploaded as well. Do change the directory of datasets if any one wants to run ou
 
 5. All the prediction will be given out with graphs, min max temp and properly dated predictions.
 
-Hope you like my Project!
-Mayank Goel
+Hope you like the Project!
+Sanchit Jain
